@@ -1,0 +1,7 @@
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordConsole.exe
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordConsole.dll
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordConsole.deps.json
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordConsole.runtimeconfig.json
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordConsole.pdb
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordConsole\bin\Release\net5.0\publish\MoneyWordLib.pdb

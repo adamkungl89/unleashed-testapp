@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "MoneyWordLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/MoneyWordLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoneyWordLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyWordLib/1.0.0": {
+      "type": "project",
+      "path": "../MoneyWordLib/MoneyWordLib.csproj",
+      "msbuildProject": "../MoneyWordLib/MoneyWordLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "MoneyWordLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\welco\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Dev\\UnleashedTest\\MoneyWordConsole\\MoneyWordConsole.csproj",
+      "projectName": "MoneyWordConsole",
+      "projectPath": "C:\\Dev\\UnleashedTest\\MoneyWordConsole\\MoneyWordConsole.csproj",
+      "packagesPath": "C:\\Users\\welco\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\UnleashedTest\\MoneyWordConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\welco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj": {
+              "projectPath": "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

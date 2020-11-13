@@ -1,0 +1,12 @@
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\MoneyWordLib.deps.json
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\ref\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\MoneyWordLib.pdb
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.csprojAssemblyReference.cache
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.AssemblyInfoInputs.cache
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.AssemblyInfo.cs
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.csproj.CoreCompileInputs.cache
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\ref\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordLib\obj\Release\net5.0\MoneyWordLib.pdb

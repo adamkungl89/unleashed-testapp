@@ -1,0 +1,3 @@
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\publish\MoneyWordLib.dll
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\publish\MoneyWordLib.deps.json
+C:\Dev\UnleashedTest\MoneyWordLib\bin\Release\net5.0\publish\MoneyWordLib.pdb

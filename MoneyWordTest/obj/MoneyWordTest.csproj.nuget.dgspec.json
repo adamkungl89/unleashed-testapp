@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Dev\\UnleashedTest\\MoneyWordTest\\MoneyWordTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj",
+        "projectName": "MoneyWordLib",
+        "projectPath": "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj",
+        "packagesPath": "C:\\Users\\welco\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\UnleashedTest\\MoneyWordLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Dev\\UnleashedTest\\MoneyWordTest\\MoneyWordTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Dev\\UnleashedTest\\MoneyWordTest\\MoneyWordTest.csproj",
+        "projectName": "MoneyWordTest",
+        "projectPath": "C:\\Dev\\UnleashedTest\\MoneyWordTest\\MoneyWordTest.csproj",
+        "packagesPath": "C:\\Users\\welco\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\UnleashedTest\\MoneyWordTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\welco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj": {
+                "projectPath": "C:\\Dev\\UnleashedTest\\MoneyWordLib\\MoneyWordLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
